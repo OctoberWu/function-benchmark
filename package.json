@@ -1,6 +1,6 @@
 {
   "name": "@jony_starc/function-benchmarker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple benchmark for testing function performance",
   "main": "dist/index.js",
   "scripts": {
